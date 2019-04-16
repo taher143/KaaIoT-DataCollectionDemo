@@ -1,0 +1,2 @@
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ar qc libextension_profile.a  CMakeFiles/extension_profile.dir/src/extensions/profile/kaa_profile.c.obj
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ranlib libextension_profile.a

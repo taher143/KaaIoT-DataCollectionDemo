@@ -1,0 +1,2 @@
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ar qc libextension_event.a  CMakeFiles/extension_event.dir/src/extensions/event/kaa_event.c.obj
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ranlib libextension_event.a

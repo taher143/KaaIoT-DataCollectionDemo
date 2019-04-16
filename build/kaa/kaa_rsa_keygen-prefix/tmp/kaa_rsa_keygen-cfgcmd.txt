@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DKAA_SDK_DIR=/home/taher/kaa/Datacollection/kaa;-GUnix Makefiles;/home/taher/kaa/Datacollection/kaa/tools/kaa_encryption'

@@ -1,0 +1,2 @@
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ar qc librsa_keygen.a  CMakeFiles/rsa_keygen.dir/kaa_rsa_key_gen.c.obj
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ranlib librsa_keygen.a

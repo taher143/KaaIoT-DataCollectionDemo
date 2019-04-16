@@ -1,0 +1,2 @@
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ar qc libextension_configuration.a  CMakeFiles/extension_configuration.dir/src/extensions/configuration/kaa_configuration_manager.c.obj
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ranlib libextension_configuration.a

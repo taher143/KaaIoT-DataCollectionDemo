@@ -1,0 +1,2 @@
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ar qc libextension_bootstrap.a  CMakeFiles/extension_bootstrap.dir/src/extensions/bootstrap/kaa_bootstrap_manager.c.obj
+/opt/Espressif/crosstool-NG/builds/xtensa-lx106-elf/bin/xtensa-lx106-elf-ranlib libextension_bootstrap.a
